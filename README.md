@@ -22,3 +22,5 @@
 [Ejemplo](http://www.sinaptec.alomar.com.ar/2018/06/proyectos-con-esp32-1-reproducir-audio.html)
 
 [Sonidos espada laser](https://github.com/LordofBone/ArduinoLightsaber)
+
+[LightSaber with plastic](https://www.instructables.com/id/Make-a-Metal-Lightsaber-From-Plastic-and-Tape/)
